@@ -1,4 +1,12 @@
+## Стек технологий 
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
+[![Flask](https://shields-io.translate.goog/badge/-Flask-464646?style=flat)](https://flask.palletsprojects.com/en/3.0.x/)
+
+
+
 # Инструкция по запуску сервера
+
+
 
 1. Склонируйте репозиторий на свою локальную машину.
 2. Установите необходимые зависимости, указанные в requirements.txt, с помощью команды:
